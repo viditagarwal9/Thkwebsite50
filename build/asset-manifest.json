@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ac3be86.css",
+    "main.js": "/static/js/main.467fce55.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/back_video.mp4": "/static/media/back_video.39c946b858d1fdf0c3ba.mp4",
+    "static/media/img_4.jpg": "/static/media/img_4.7ba3ca0c69a285aa2b1d.jpg",
+    "static/media/img_2.jpg": "/static/media/img_2.2a6b1aed3745796c22e6.jpg",
+    "static/media/img_1.jpg": "/static/media/img_1.2de6fa736d376f8a86f3.jpg",
+    "static/media/img_6.jpg": "/static/media/img_6.677e31dbdab595188efa.jpg",
+    "static/media/img_5.jpg": "/static/media/img_5.a3023009f8899f37296c.jpg",
+    "static/media/img_3.jpg": "/static/media/img_3.d0e932e46bfadc3a91d2.jpg",
+    "static/media/GulfFlag.png": "/static/media/GulfFlag.f43da4a85c69c2c74aca.png",
+    "static/media/FlagEurope.png": "/static/media/FlagEurope.c98c9d7b14e7e72a5fe2.png",
+    "static/media/header_logo.jpg": "/static/media/header_logo.3e07366edd2d206c98aa.jpg",
+    "static/media/FlagArabia.webp": "/static/media/FlagArabia.c4824437c6a972c02cd7.webp",
+    "static/media/ukflag.jpg": "/static/media/ukflag.df3cd478060b9dfdcc5f.jpg",
+    "static/media/usaFlag.webp": "/static/media/usaFlag.449bbbc091b5376fe377.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.8ac3be86.css.map": "/static/css/main.8ac3be86.css.map",
+    "main.467fce55.js.map": "/static/js/main.467fce55.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ac3be86.css",
+    "static/js/main.467fce55.js"
+  ]
+}
